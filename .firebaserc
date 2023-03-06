@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mhtodolist": {
+      "hosting": {
+        "firebase-todolist": [
+          "mhtodolist"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mhtodolist"
+  }
+}
